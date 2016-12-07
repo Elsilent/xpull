@@ -1,6 +1,6 @@
 {
   "name": "xpull",
-  "main": ["xpull.js","xpull.css"],
+  "main": "xpull.js",
   "version": "1.0.0",
   "homepage": "https://github.com/sjovanovic/xpull",
   "authors": [
